@@ -1,0 +1,277 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "name": "Introduction to React Native",
+      "instructor": "John Doe",
+      "description": "Learn the basics of React Native development and build your first mobile app.",
+      "enrollmentStatus": "Open",
+      "thumbnail": "https://everyday.codes/wp-content/uploads/2019/06/react-native-1024x631-1024x631.png",
+      "duration": "8 weeks",
+      "schedule": "Tuesdays and Thursdays, 6:00 PM - 8:00 PM",
+      "location": "Online",
+      "prerequisites": ["Basic JavaScript knowledge", "Familiarity with React"],
+      "syllabus": [
+        {
+          "week": 1,
+          "topic": "Introduction to React Native",
+          "content": "Overview of React Native, setting up your development environment."
+        },
+        {
+          "week": 2,
+          "topic": "Building Your First App",
+          "content": "Creating a simple mobile app using React Native components."
+        }
+      ],
+      "students": [
+        {
+          "id": 101,
+          "name": "Alice Johnson",
+          "email": "alice@example.com"
+        },
+        {
+          "id": 102,
+          "name": "Bob Smith",
+          "email": "bob@example.com"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Advanced React Native",
+      "instructor": "Jane Doe",
+      "description": "Take your React Native skills to the next level.",
+      "enrollmentStatus": "Closed",
+      "thumbnail": "https://codewithmosh.com/_next/image?url=https%3A%2F%2Fwww.filepicker.io%2Fapi%2Ffile%2F4C6yPDywSUeWYLyg1h9G&w=3840&q=75",
+      "duration": "10 weeks",
+      "schedule": "Mondays and Wednesdays, 7:00 PM - 9:00 PM",
+      "location": "Online",
+      "prerequisites": ["React Native Basics"],
+      "syllabus": [
+        {
+          "week": 1,
+          "topic": "Advanced Components",
+          "content": "Deep dive into React Native components."
+        },
+        {
+          "week": 2,
+          "topic": "State Management",
+          "content": "Using Redux with React Native."
+        }
+      ],
+      "students": [
+        {
+          "id": 103,
+          "name": "Charlie Brown",
+          "email": "charlie@example.com"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Full Stack Development",
+      "instructor": "Mike Ross",
+      "description": "Become a full-stack developer with MERN stack.",
+      "enrollmentStatus": "Open",
+      "thumbnail": "https://blog.nextideatech.com/wp-content/uploads/2022/12/1_FVtCyRdJ6KOr4YswTtwMeA-1024x586.jpeg",
+      "duration": "12 weeks",
+      "schedule": "Fridays, 5:00 PM - 8:00 PM",
+      "location": "Hybrid",
+      "prerequisites": ["JavaScript", "React"],
+      "syllabus": [
+        {
+          "week": 1,
+          "topic": "Introduction to MERN Stack",
+          "content": "Overview of MongoDB, Express, React, and Node.js."
+        },
+        {
+          "week": 2,
+          "topic": "Backend Development with Node.js",
+          "content": "Building a REST API with Node.js and Express."
+        }
+      ],
+      "students": []
+    },
+    {
+      "id": 4,
+      "name": "Python for Beginners",
+      "instructor": "Sarah Connor",
+      "description": "Learn Python from scratch.",
+      "enrollmentStatus": "Open",
+      "thumbnail": "https://logos-world.net/wp-content/uploads/2021/10/Python-Logo.jpg",
+      "duration": "6 weeks",
+      "schedule": "Saturdays, 10:00 AM - 12:00 PM",
+      "location": "Online",
+      "prerequisites": [],
+      "syllabus": [
+        {
+          "week": 1,
+          "topic": "Introduction to Python",
+          "content": "Setting up Python, writing your first program."
+        },
+        {
+          "week": 2,
+          "topic": "Variables and Data Types",
+          "content": "Understanding variables, strings, and numbers in Python."
+        }
+      ],
+      "students": [
+        {
+          "id": 104,
+          "name": "David Smith",
+          "email": "david@example.com"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Machine Learning Fundamentals",
+      "instructor": "Andrew Ng",
+      "description": "Understand the fundamentals of ML.",
+      "enrollmentStatus": "Closed",
+      "thumbnail": "https://images.javatpoint.com/python/images/best-python-libraries-for-machine-learning.jpg",
+      "duration": "10 weeks",
+      "schedule": "Tuesdays, 3:00 PM - 6:00 PM",
+      "location": "Online",
+      "prerequisites": ["Python", "Math Basics"],
+      "syllabus": [
+        {
+          "week": 1,
+          "topic": "Introduction to Machine Learning",
+          "content": "Overview of ML algorithms and tools."
+        },
+        {
+          "week": 2,
+          "topic": "Supervised Learning",
+          "content": "Exploring linear regression and classification."
+        }
+      ],
+      "students": []
+    },
+    {
+      "id": 6,
+      "name": "Web Development Bootcamp",
+      "instructor": "Colt Steele",
+      "description": "Learn HTML, CSS, and JavaScript.",
+      "enrollmentStatus": "Open",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAVHOmPfLWrvA0-rdS6ajH-6pMka6RqpLhdg&s",
+      "duration": "9 weeks",
+      "schedule": "Mondays, 7:00 PM - 9:00 PM",
+      "location": "Offline",
+      "prerequisites": ["Basic Programming Knowledge"],
+      "syllabus": [
+        {
+          "week": 1,
+          "topic": "Introduction to Web Development",
+          "content": "Setting up HTML, CSS, and JS."
+        },
+        {
+          "week": 2,
+          "topic": "Styling with CSS",
+          "content": "Working with CSS layouts and flexbox."
+        }
+      ],
+      "students": []
+    },
+    {
+      "id": 7,
+      "name": "Data Structures and Algorithms",
+      "instructor": "Robert Martin",
+      "description": "Master data structures and algorithms.",
+      "enrollmentStatus": "Open",
+      "thumbnail": "https://png.pngtree.com/png-clipart/20230925/original/pngtree-data-structures-and-algorithms-concept-icon-symbol-editable-general-vector-png-image_12695241.png",
+      "duration": "12 weeks",
+      "schedule": "Wednesdays, 6:00 PM - 8:00 PM",
+      "location": "Hybrid",
+      "prerequisites": ["Basic Programming Knowledge"],
+      "syllabus": [
+        {
+          "week": 1,
+          "topic": "Introduction to Algorithms",
+          "content": "Learn sorting and searching algorithms."
+        },
+        {
+          "week": 2,
+          "topic": "Data Structures",
+          "content": "Introduction to stacks, queues, and linked lists."
+        }
+      ],
+      "students": []
+    },
+    {
+      "id": 8,
+      "name": "Cybersecurity Basics",
+      "instructor": "Kevin Mitnick",
+      "description": "Learn the basics of cybersecurity.",
+      "enrollmentStatus": "Closed",
+      "thumbnail": "https://t4.ftcdn.net/jpg/05/96/89/71/360_F_596897127_EZfIxmLrtfqUW0IFXgIh3qzHN3hxs0TP.jpg",
+      "duration": "8 weeks",
+      "schedule": "Fridays, 5:00 PM - 7:00 PM",
+      "location": "Online",
+      "prerequisites": ["Basic Networking Knowledge"],
+      "syllabus": [
+        {
+          "week": 1,
+          "topic": "Introduction to Cybersecurity",
+          "content": "Overview of cybersecurity principles and threats."
+        },
+        {
+          "week": 2,
+          "topic": "Network Security",
+          "content": "Exploring firewalls and encryption methods."
+        }
+      ],
+      "students": []
+    },
+    {
+      "id": 9,
+      "name": "Cloud Computing with AWS",
+      "instructor": "Jeff Bezos",
+      "description": "Introduction to AWS cloud services.",
+      "enrollmentStatus": "Open",
+      "thumbnail": "https://logos-world.net/wp-content/uploads/2021/08/Amazon-Web-Services-AWS-Emblem.png",
+      "duration": "6 weeks",
+      "schedule": "Thursdays, 4:00 PM - 6:00 PM",
+      "location": "Online",
+      "prerequisites": ["Networking Basics"],
+      "syllabus": [
+        {
+          "week": 1,
+          "topic": "Introduction to Cloud Computing",
+          "content": "Overview of cloud computing and AWS."
+        },
+        {
+          "week": 2,
+          "topic": "AWS Services",
+          "content": "Exploring EC2, S3, and Lambda functions."
+        }
+      ],
+      "students": []
+    },
+    {
+      "id": 10,
+      "name": "Blockchain and Cryptocurrency",
+      "instructor": "Vitalik Buterin",
+      "description": "Understand the fundamentals of blockchain.",
+      "enrollmentStatus": "Open",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bitcoin.svg/1024px-Bitcoin.svg.png",
+      "duration": "10 weeks",
+      "schedule": "Sundays, 3:00 PM - 5:00 PM",
+      "location": "Hybrid",
+      "prerequisites": ["Basic Programming Knowledge"],
+      "syllabus": [
+        {
+          "week": 1,
+          "topic": "Introduction to Blockchain",
+          "content": "Understanding the principles behind blockchain technology."
+        },
+        {
+          "week": 2,
+          "topic": "Cryptocurrency Basics",
+          "content": "How cryptocurrencies like Bitcoin work."
+        }
+      ],
+      "students": []
+    }
+  ]
+}
